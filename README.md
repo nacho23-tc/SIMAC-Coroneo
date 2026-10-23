@@ -75,7 +75,7 @@ Git y **Git LFS**, Node.js 22, npm, Python 3.12 y pip. Los scripts incluidos usa
 
 Se necesita internet para descargar dependencias y, en el primer uso de Cellpose, sus pesos si no están instalados. El chat con IA necesita además una cuenta API válida.
 
-Descarga con Git y Git LFS, una vez disponible el repositorio. El ZIP de GitHub puede no incluir los archivos grandes completos:
+Descarga el repositorio con Git y Git LFS. El ZIP de GitHub puede no incluir los archivos grandes completos:
 
 ```powershell
 git clone https://github.com/nacho23-tc/SIMAC-Coroneo.git
@@ -224,4 +224,4 @@ Se reconocen las bibliotecas y modelos de terceros, incluidos Cellpose/cyto3 y s
 
 No se incluye una licencia de código abierto. Los materiales de investigación, cuadernos del curso, datos, fotografías, modelos y logotipos conservan su procedencia y sus condiciones de uso. Su redistribución requiere las autorizaciones correspondientes; los créditos no sustituyen esos permisos.
 
-Dirección prevista del repositorio: https://github.com/nacho23-tc/SIMAC-Coroneo. La dirección queda sujeta a la creación y disponibilidad del repositorio.
+Repositorio público: https://github.com/nacho23-tc/SIMAC-Coroneo.
