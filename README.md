@@ -1,10 +1,58 @@
-# SIMAC Coroneo
+<p align="center">
+  <img src="public/simac.png" alt="Logo de SIMAC Coroneo" width="200">
+</p>
 
-**Sistema Inteligente para el Monitoreo y Análisis de Maíz Criollo**
+<h1 align="center">SIMAC Coroneo</h1>
+
+<p align="center"><strong>Sistema Inteligente para el Monitoreo y Análisis de Maíz Criollo</strong></p>
+<p align="center">Análisis de imágenes y registro de muestras de maíz de Coroneo y su región.</p>
+
+<p align="center">
+  <img alt="Python 3.12" src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&amp;logoColor=white">
+  <img alt="React 19" src="https://img.shields.io/badge/React-19-149ECA?logo=react&amp;logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&amp;logoColor=white">
+  <img alt="Cellpose cyto3" src="https://img.shields.io/badge/Cellpose-cyto3-315A42">
+</p>
+
+<p align="center">
+  <a href="#funciones-actuales">Funciones</a> ·
+  <a href="#requisitos-e-instalación">Instalación</a> ·
+  <a href="#fotografías-y-siete-pruebas">Evidencias</a> ·
+  <a href="#limitaciones-y-mejoras-futuras">Alcance</a> ·
+  <a href="#equipo-y-reconocimientos">Equipo y créditos</a>
+</p>
 
 Proyecto desarrollado durante **TrackTalents ITESI 2026**, con participación del equipo de **CECyTE Guanajuato, Unidad Académica Coroneo**, a partir de una base de investigación de **ITESI y la Universidad Autónoma Agraria Antonio Narro (UAAAN)**.
 
 SIMAC es una aplicación web para analizar fotografías de granos, revisar detecciones, obtener medidas y organizar registros agrícolas.
+
+## Vista del análisis
+
+Ejemplo de la galería guardada de SIMAC-001. Estas imágenes permiten comparar la fotografía, la segmentación y la visualización de dimensiones; corresponden a una ejecución guardada, no a un procesamiento en vivo.
+
+<p align="center">
+  <img src="public/gallery/simac-001-photo.webp" alt="Fotografía de granos de la muestra SIMAC-001" width="30%">
+  <img src="public/gallery/simac-001-overlay.webp" alt="Detecciones de granos sobre la muestra SIMAC-001" width="30%">
+  <img src="public/gallery/simac-001-dimensions.webp" alt="Visualización de dimensiones de los granos" width="30%">
+</p>
+
+**Flujo de trabajo:** fotografía → recorte y calibración → segmentación → revisión → resultados e informe.
+
+## Guía para revisar el proyecto
+
+| Qué revisar | Dónde encontrarlo |
+|---|---|
+| Ejecutar SIMAC en una computadora | [Instalación](#requisitos-e-instalación) y ejecución del backend y frontend |
+| Integración de Cellpose | [backend/analysis.py](backend/analysis.py) |
+| API e historial de muestras | [backend/main.py](backend/main.py) |
+| Interfaz del laboratorio | [src/main.tsx](src/main.tsx) |
+| Fotografías de las siete pruebas | [muestras/](muestras/) |
+| Informes HTML y PDF | [reportes/](reportes/) |
+| Colección de 80 fotografías | [public/Visual/](public/Visual/) |
+| Variables, peso y clasificación experimental | [PESO_Y_SVM.md](PESO_Y_SVM.md) |
+
+La aplicación se ejecuta siguiendo las instrucciones de este README. El repositorio permite consultar y descargar el código; no es un sitio de análisis alojado en GitHub Pages. La descarga de la base y los modelos grandes requiere **Git LFS**.
 
 ## Problema y objetivo
 
@@ -20,7 +68,7 @@ El objetivo es facilitar el conteo y la caracterización de granos mediante imá
 - Revisar contornos, excluir objetos, unir detecciones compatibles y confirmar el conteo.
 - Consultar largo, ancho, área, perímetro, forma y color por grano.
 - Estimar peso con su referencia y registrar pesajes reales de conjuntos identificados.
-- Guardar muestras e historial y descargar CSV, vistas e informes HTML imprimibles.
+- Guardar muestras e historial y descargar CSV, vistas e informes HTML que se pueden imprimir o guardar como PDF.
 - Registrar materiales, familias, parcelas, observaciones y cruzamientos; importar y exportar CSV.
 - Entrenar y activar versiones experimentales de clasificación Alto/Bajo y evaluar modelos de peso con datos suficientes.
 - Explorar resultados guardados y un archivo visual de 80 fotografías; las copias de galería no se sincronizan automáticamente con el historial.
