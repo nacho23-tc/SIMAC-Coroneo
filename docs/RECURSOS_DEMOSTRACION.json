@@ -1,0 +1,92 @@
+[
+  {
+    "archivo": "data/course_training.json",
+    "bytes": 1124,
+    "sha256": "5f5f3a71f372142bc5e5a70ade3446e6f364d4fda5b6404fa45ecb4cd6b79d50",
+    "tipo": "Git"
+  },
+  {
+    "archivo": "data/course_weight.json",
+    "bytes": 2641,
+    "sha256": "720f62dfc4953b24026152cc0a2a4a21983a896bcd2b0bec9cdd33787b93e902",
+    "tipo": "Git"
+  },
+  {
+    "archivo": "data/metadata.json",
+    "bytes": 8188,
+    "sha256": "c59e307507c892cfaaa6a1ea01a2b905e893119767145093da3d556c66e937e6",
+    "tipo": "Git"
+  },
+  {
+    "archivo": "data/models/cyto3",
+    "bytes": 26566255,
+    "sha256": "2dc3087a8abd7da46d1ab0ddd5824639933cc3ff63b382af3fa1939a392db93c",
+    "tipo": "Git LFS"
+  },
+  {
+    "archivo": "data/models/size_cyto3.npy",
+    "bytes": 3627,
+    "sha256": "87f91feb48019b4dfb0400e7bbb89aca5873368686815aa7b4431c0faee97fc5",
+    "tipo": "Git LFS"
+  },
+  {
+    "archivo": "data/samples.sqlite3",
+    "bytes": 447098880,
+    "sha256": "65d576b19d55ef3b9fcd8eb9b0bee3e12601e245234a0583e7810a473f19207c",
+    "tipo": "Git LFS"
+  },
+  {
+    "archivo": "data/training_sources/caracteristicas_por_familia.xlsx",
+    "bytes": 10262,
+    "sha256": "bdb4d498c7c6e23d576b11110038939118342acbfea6468fa98bd86e0446eeb7",
+    "tipo": "Git"
+  },
+  {
+    "archivo": "data/training_sources/metadatosTT.xlsx",
+    "bytes": 26490,
+    "sha256": "21c80dbb8d6c27b02acb3d2a544e3e672b95a2b45c20e919dc4bff5681fd032e",
+    "tipo": "Git"
+  },
+  {
+    "archivo": "data/yield_experiments/ba8b6569-fadf-4dad-a7a0-34ad876d08ac.json",
+    "bytes": 45967,
+    "sha256": "fca22a48d90b1066e77cd8e9b524c445a873c436df3f34522915ffeb3a24b77d",
+    "tipo": "Git"
+  },
+  {
+    "archivo": "data/yield_experiments/ca97c158-948b-4ed7-8ba0-8d543b0d195d.json",
+    "bytes": 47669,
+    "sha256": "5f2b2b9f3ad893ce335c8131fbe261403bcfb1ea4bdcbbfb1923c56b758b82f4",
+    "tipo": "Git"
+  },
+  {
+    "archivo": "data/yield_models/active.json",
+    "bytes": 46,
+    "sha256": "ab3fc72c775a03773bb1b2c9dca6495e2006e82c54fa6d743051c4cffba523d6",
+    "tipo": "Git"
+  },
+  {
+    "archivo": "data/yield_models/ba8b6569-fadf-4dad-a7a0-34ad876d08ac.joblib",
+    "bytes": 3229,
+    "sha256": "0551826d79e20960bd22a058d8701d4edc28201ad67407e02dec859851385f63",
+    "tipo": "Git LFS"
+  },
+  {
+    "archivo": "data/yield_models/ba8b6569-fadf-4dad-a7a0-34ad876d08ac.json",
+    "bytes": 1524,
+    "sha256": "3466f776b39f4d70b5a9aa4887cacfe31cd2f2b3a70ac2d2dfd9e854fe9deb70",
+    "tipo": "Git"
+  },
+  {
+    "archivo": "data/yield_models/ca97c158-948b-4ed7-8ba0-8d543b0d195d.joblib",
+    "bytes": 3357,
+    "sha256": "467a550d46baba54a025660b0e9d75b2ea5854c88c147c45d41c44ffab7b518f",
+    "tipo": "Git LFS"
+  },
+  {
+    "archivo": "data/yield_models/ca97c158-948b-4ed7-8ba0-8d543b0d195d.json",
+    "bytes": 1687,
+    "sha256": "43b33a8da546bf4a32aad23f3abba134d1763f6f1131022a6152c416e1df210f",
+    "tipo": "Git"
+  }
+]

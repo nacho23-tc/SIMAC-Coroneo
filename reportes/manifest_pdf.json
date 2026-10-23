@@ -1,0 +1,80 @@
+[
+  {
+    "muestra": "SIMAC-001",
+    "archivo": "SIMAC-001.pdf",
+    "archivo_original": "SIMAC · SIMAC-001.pdf",
+    "sha256": "77a67eb028c5b6303ce9024ad644c7ed618896f1d6b86ec47d1ce20d4338fb99",
+    "paginas": 7,
+    "contiene_encabezados_con_ruta_local": true,
+    "nota": "PDF original conservado sin cambios; puede corresponder a una versión distinta del HTML.",
+    "referencia_tabla_informe_final": true
+  },
+  {
+    "muestra": "SIMAC-002",
+    "archivo": "SIMAC-002.pdf",
+    "archivo_original": "SIMAC · SIMAC-002.pdf",
+    "sha256": "25ff3f89c9fabfde684a1abd39f9b9637f9f8d7358525f38ab3c035b306739cf",
+    "paginas": 6,
+    "contiene_encabezados_con_ruta_local": true,
+    "nota": "Antecedente previo a recalibración. La tabla final utiliza SIMAC-002-VER2.pdf. PDF conservado sin cambios.",
+    "referencia_tabla_informe_final": false
+  },
+  {
+    "muestra": "SIMAC-003",
+    "archivo": "SIMAC-003.pdf",
+    "archivo_original": "SIMAC · SIMAC-003.pdf",
+    "sha256": "34fa479c9289598d0a2e382bc0b141f888df19683f0e39159d71f45265dc9939",
+    "paginas": 6,
+    "contiene_encabezados_con_ruta_local": true,
+    "nota": "PDF original conservado sin cambios; puede corresponder a una versión distinta del HTML.",
+    "referencia_tabla_informe_final": true
+  },
+  {
+    "muestra": "SIMAC-004",
+    "archivo": "SIMAC-004.pdf",
+    "archivo_original": "SIMAC · SIMAC-004.pdf",
+    "sha256": "029e7166216ee7b35285ce8f640882f913ba16a1bf412f3d0754cae23126576d",
+    "paginas": 6,
+    "contiene_encabezados_con_ruta_local": true,
+    "nota": "PDF original conservado sin cambios; puede corresponder a una versión distinta del HTML.",
+    "referencia_tabla_informe_final": true
+  },
+  {
+    "muestra": "SIMAC-005",
+    "archivo": "SIMAC-005.pdf",
+    "archivo_original": "SIMAC · SIMAC-005.pdf",
+    "sha256": "1503ed43865c128b8a5e89a6be97ffb0f7af02228da66472de287484f0bc5603",
+    "paginas": 6,
+    "contiene_encabezados_con_ruta_local": true,
+    "nota": "PDF original conservado sin cambios; puede corresponder a una versión distinta del HTML.",
+    "referencia_tabla_informe_final": true
+  },
+  {
+    "muestra": "SIMAC-006",
+    "archivo": "SIMAC-006.pdf",
+    "archivo_original": "SIMAC · SIMAC-006.pdf",
+    "sha256": "241028613456bb6d48ce775574e3a6bb7ec35bb4704f99667f94e57efb23faed",
+    "paginas": 7,
+    "contiene_encabezados_con_ruta_local": true,
+    "nota": "PDF original conservado sin cambios; puede corresponder a una versión distinta del HTML.",
+    "referencia_tabla_informe_final": true
+  },
+  {
+    "muestra": "SIMAC-007",
+    "archivo": "SIMAC-007.pdf",
+    "archivo_original": "SIMAC · SIMAC-007.pdf",
+    "sha256": "d938701db933af651cc882b530313f48e7e2cfe11dda274f5e4dce4bb2924477",
+    "paginas": 6,
+    "contiene_encabezados_con_ruta_local": true,
+    "nota": "PDF original conservado sin cambios; puede corresponder a una versión distinta del HTML.",
+    "referencia_tabla_informe_final": true
+  },
+  {
+    "muestra": "SIMAC-002-VER2",
+    "archivo": "SIMAC-002-VER2.pdf",
+    "archivo_original": "SIMAC · SIMAC-002-VER2.pdf",
+    "sha256": "f73964b0de468ba1338be7ed4f5464c7a85c8242e0912f949d1eb968738ab833",
+    "nota": "Versión adicional calibrada, con revisión de detecciones sin confirmar; original conservado.",
+    "referencia_tabla_informe_final": true
+  }
+]

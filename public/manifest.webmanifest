@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "SIMAC Coroneo",
+  "short_name": "SIMAC",
+  "description": "Análisis de semillas y registro agrícola de maíces nativos.",
+  "lang": "es-MX",
+  "start_url": "/#inicio",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f7ef",
+  "theme_color": "#153e32",
+  "icons": [
+    {
+      "src": "/icons/simac-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/simac-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

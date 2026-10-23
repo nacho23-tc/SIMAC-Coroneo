@@ -1,0 +1,700 @@
+[
+  {
+    "code": "SIMAC-001",
+    "file": "SIMAC-001.jpeg",
+    "width": 1148,
+    "height": 1600,
+    "sha256": "26039bb2f4cd75de9b7f2cf742f3f79c5cdf356d6e2f28e2d877b196b887a2a6",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-002",
+    "file": "SIMAC-002.jpeg",
+    "width": 1124,
+    "height": 1600,
+    "sha256": "40b34edb86327536e98377bf6d699917ef519facdd6d495d22382d34230b2e19",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-003",
+    "file": "SIMAC-003.jpeg",
+    "width": 1170,
+    "height": 1600,
+    "sha256": "79cb077ef53886eaf7f32a647ef598322ca39d77ff6cf9ba7df7555f2ca3a302",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-004",
+    "file": "SIMAC-004.jpeg",
+    "width": 1150,
+    "height": 1600,
+    "sha256": "879079a64829a689e556d5f2daa612f8eb5def6a3dd27f0e69cc4c2e0df09e72",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-005",
+    "file": "SIMAC-005.jpeg",
+    "width": 1164,
+    "height": 1600,
+    "sha256": "a8260e5c02864afb0e33960e1b01fe51ea3ea5a96ffb8ba1432606c5413bab41",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-006",
+    "file": "SIMAC-006.jpeg",
+    "width": 1144,
+    "height": 1600,
+    "sha256": "731eb2864a76b4c8a4d32632be6aa87c2c9afce11eacc4e47a02f99e9516e238",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-007",
+    "file": "SIMAC-007.jpeg",
+    "width": 1148,
+    "height": 1600,
+    "sha256": "6ecf7dce030e73e3ffb8c56f64e04004f0467d99f39d32bc187334c194708da6",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-008",
+    "file": "SIMAC-008.jpeg",
+    "width": 1170,
+    "height": 1600,
+    "sha256": "b1db772a37a716a462619db3cad6e062d59652855b1d867794c332b747c0db20",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-009",
+    "file": "SIMAC-009.jpeg",
+    "width": 1140,
+    "height": 1600,
+    "sha256": "9cc308d1fa5e52e9c98d759ddb608852784a6ef92e5df51ed5637349d06705bb",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-010",
+    "file": "SIMAC-010.jpeg",
+    "width": 1600,
+    "height": 1156,
+    "sha256": "5ac851bc400bf16a504c9e6448780dce7bc6da899f2720a868014b1b14d96932",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-011",
+    "file": "SIMAC-11.jpeg",
+    "width": 1147,
+    "height": 1600,
+    "sha256": "114a5c1bd4fc5806b2defc00ef66d1b97184e5f3e30ccfce60276f4a93398126",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-012",
+    "file": "SIMAC-12.jpeg",
+    "width": 1043,
+    "height": 1480,
+    "sha256": "1213a0ff183a481b212d3545656b8027f69386bb8b16f36556d7a76b5e3244eb",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-013",
+    "file": "SIMAC-13.jpeg",
+    "width": 1086,
+    "height": 1497,
+    "sha256": "4836c41173ab0e3a7c15b99ff35e818aa51a335892864c01e93163054e5209f7",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-014",
+    "file": "SIMAC-14.jpeg",
+    "width": 1139,
+    "height": 1600,
+    "sha256": "4e1ba14f5627f506cb75367a1f572b8465c66bc09c906002e746f0ff729d7edd",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-015",
+    "file": "SIMAC-15.jpeg",
+    "width": 969,
+    "height": 1357,
+    "sha256": "92aae124c2d0fdeda3d1e4712d0907796d18d4b9a79f228a8b08dc1a7aa967ee",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-016",
+    "file": "SIMAC-16.jpeg",
+    "width": 1129,
+    "height": 1600,
+    "sha256": "87c0fc9a60df37948d41c0c1c0a3fd35e4546283699ae00f98d7f34c8ebe8a87",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-017",
+    "file": "SIMAC-17.jpeg",
+    "width": 977,
+    "height": 1346,
+    "sha256": "47ec29269636e920ab8ef96330f5d0a3fd3c8aac88a5c4bfe14ebc67d097c7ba",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-018",
+    "file": "SIMAC-18.jpeg",
+    "width": 990,
+    "height": 1366,
+    "sha256": "a9ce058793a90d9ba762f3b270f097d6531974225ad3d8779b80d0baa9f8a691",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-019",
+    "file": "SIMAC-19.jpeg",
+    "width": 1002,
+    "height": 1392,
+    "sha256": "f6e473883b5df47a2e4538066e042aee3ad57c1c4dc7f84335216c85a7e1afda",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-020",
+    "file": "SIMAC-20.jpeg",
+    "width": 1127,
+    "height": 1600,
+    "sha256": "22f199241d7b12123292d921ee8e048ee238505ee9483a3fdfbf3d97f212a28a",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-021",
+    "file": "SIMAC-21.jpeg",
+    "width": 1280,
+    "height": 931,
+    "sha256": "a7fb408ca1d5622e377204796f1506e0b67288329651db48b52a7a861d31a2e4",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-022",
+    "file": "SIMAC-22.jpeg",
+    "width": 1280,
+    "height": 874,
+    "sha256": "68f9cd0f6aa1500ec09b721006c439d1dbc1f32d8d3be3e5f0daf82efdf7b0db",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-023",
+    "file": "SIMAC-23.jpeg",
+    "width": 1280,
+    "height": 931,
+    "sha256": "73c82467ef0ab0b3f61e12e10680ad8271354e9c8bd427231c42236d71863398",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-024",
+    "file": "SIMAC-24.jpeg",
+    "width": 1280,
+    "height": 909,
+    "sha256": "a434bccc3936512cf77c76e4466764fa36bbdb00d9e7025c1106f1177a379fce",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-025",
+    "file": "SIMAC-25.jpeg",
+    "width": 1280,
+    "height": 928,
+    "sha256": "a4148dc1183d041e2c160afd1eb417b44b347f0e60bc83576c0da10389b4709b",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-026",
+    "file": "SIMAC-26.jpeg",
+    "width": 1280,
+    "height": 892,
+    "sha256": "0f5bd678050762e07e89d03bcf54b9237bb4bf434d91987c5939fd1b80ec35b6",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-027",
+    "file": "SIMAC-27.jpeg",
+    "width": 1600,
+    "height": 1143,
+    "sha256": "1d89daf86f30f8eb25ec813baa48e588ab3f98f5ed18d01c4abe28903299c97e",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-028",
+    "file": "SIMAC-28.jpeg",
+    "width": 1599,
+    "height": 1143,
+    "sha256": "57451ae771156cdd4b28a0311247d498fe94aef563ad6bd41f8db2ac3171dd32",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-029",
+    "file": "SIMAC-29.jpeg",
+    "width": 1600,
+    "height": 1140,
+    "sha256": "c0b39ee851d0387b885192e073d0f0b753ca4073287474a67a9bac2a3001c36d",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-030",
+    "file": "SIMAC-30.jpeg",
+    "width": 1600,
+    "height": 1105,
+    "sha256": "a84618bce9452051d95331ec3c008456e674d4c601f1747882fc24baf4ced095",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-031",
+    "file": "SIMAC-31.jpeg",
+    "width": 1600,
+    "height": 1147,
+    "sha256": "78f444372d3ddaffeea2f4087ff6e8bfb36d1e62f3a513e088ac763365605e22",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-032",
+    "file": "SIMAC-32.jpeg",
+    "width": 1600,
+    "height": 1135,
+    "sha256": "c434fe995ddbbb2fdfeab03f7548f47791e72eb706e841ebc0d28855acc25629",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-033",
+    "file": "SIMAC-33.jpeg",
+    "width": 1600,
+    "height": 1172,
+    "sha256": "da8ec4f1756ddf412fb5231d7a435fcfab7ca7edf46eaad385f092cfd8415194",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-034",
+    "file": "SIMAC-34.jpeg",
+    "width": 1600,
+    "height": 1126,
+    "sha256": "05a4890f1e7df0c4cfa998ca8b27c955a22713a0d68a50562481756e5db9d32c",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-035",
+    "file": "SIMAC-35.jpeg",
+    "width": 1600,
+    "height": 1144,
+    "sha256": "aaf55d4c0946e65b51fbf55adb21f2bdfdc7dda531ad636915b7e9fd260c5b60",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-036",
+    "file": "SIMAC-36.jpeg",
+    "width": 1600,
+    "height": 1144,
+    "sha256": "165f5d952ef236d6b9f8fd259eb73d5c02bf14255d9389cb179d79e0fd35d175",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-037",
+    "file": "SIMAC-37.jpeg",
+    "width": 1600,
+    "height": 1109,
+    "sha256": "fae8d63935666ad10d91fa7f837c0494c1b449caa0213b2acee85a6e4ce3aecb",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-038",
+    "file": "SIMAC-38.jpeg",
+    "width": 1600,
+    "height": 1142,
+    "sha256": "1383308ab49ce75c638b09ad07c9d42e9d374f00d4c3a76e16949c904e3e8f5e",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-039",
+    "file": "SIMAC-39.jpeg",
+    "width": 1600,
+    "height": 1203,
+    "sha256": "778acc073a4d48ebe54fdc7cd264a981db73d6a3a7c7844c6172dce257da80bf",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-040",
+    "file": "SIMAC-40.jpeg",
+    "width": 1600,
+    "height": 1120,
+    "sha256": "6293fe185513a65c423e4d46c5c86a5a6a637bed45c1bb619fb8bc38d037f88f",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-041",
+    "file": "SIMAC-41.jpeg",
+    "width": 1600,
+    "height": 1126,
+    "sha256": "e0d5cc5616f980090bf9bf25931a371e1243ff01c057ecccc31f11a41ab7282d",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-042",
+    "file": "SIMAC-42.jpeg",
+    "width": 1600,
+    "height": 1130,
+    "sha256": "b9b97d6cefb7618561600bd0bedbdc72f5bca91d47444de31632baf3bf6b1a82",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-043",
+    "file": "SIMAC-43.jpeg",
+    "width": 1600,
+    "height": 1119,
+    "sha256": "a02102a43d80a9860b1d34be90b68dfa9f4af519ed4c7c74e83452ecb9b44686",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-044",
+    "file": "SIMAC-44.jpeg",
+    "width": 1600,
+    "height": 1110,
+    "sha256": "ccba08695b7373d87b0fcd43a39120092f9e37b91179d540bff1c56a2c33d43a",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-045",
+    "file": "SIMAC-45.jpeg",
+    "width": 1600,
+    "height": 1137,
+    "sha256": "1ea239c9df83fc025f3b0981f5492b3fadab81d1d26c9a4a336c2ddb31a775fa",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-046",
+    "file": "SIMAC-46.jpeg",
+    "width": 1600,
+    "height": 1159,
+    "sha256": "6c3b477f99cd79a7d41588478c031f938ace347ddf7f1e12299f01a2b5664578",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-047",
+    "file": "SIMAC-47.jpeg",
+    "width": 1600,
+    "height": 1331,
+    "sha256": "a82153ea0e30c556b48fce1c8e7696ffa7d9e3587f92dca803a808d9ff3a1b18",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-048",
+    "file": "SIMAC-48.jpeg",
+    "width": 1600,
+    "height": 1161,
+    "sha256": "e64e2ebe1d3f59ec5232e5a21c4b9d176fab106c3128d1f3bc9baedb3b5e9531",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-049",
+    "file": "SIMAC-49.jpeg",
+    "width": 1600,
+    "height": 1212,
+    "sha256": "6e40b8fa4a7127e591b83cd7e2f3c3ca568261c40918d55a6541476a91ef18a0",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-050",
+    "file": "SIMAC-50.jpeg",
+    "width": 1599,
+    "height": 1210,
+    "sha256": "85a1a70039b1392ce2812418b0c52b30e236eb647aa994030a0ec5579f1a2cd7",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-051",
+    "file": "SIMAC-051.jpeg",
+    "width": 926,
+    "height": 1280,
+    "sha256": "321a0879650764194d8bc41bfc649140704221f1214c58d63f15d913df11d16f",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.05 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-052",
+    "file": "SIMAC-052.jpeg",
+    "width": 920,
+    "height": 1280,
+    "sha256": "5749d1260de68c09d3c95e329fa6b32b1a9041f26b29438c04b7016553d159ad",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.05 PM (1).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-053",
+    "file": "SIMAC-053.jpeg",
+    "width": 926,
+    "height": 1280,
+    "sha256": "84e5d0d68fd9bbc8682c8e8d173eb3017c43d3babaef1f260751fcd172787afa",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.06 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-054",
+    "file": "SIMAC-054.jpeg",
+    "width": 886,
+    "height": 1280,
+    "sha256": "f5e14cc2ae4113098e663410c951445f6a9e6a91edba45dbee1d9a87263b9d2e",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.07 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-055",
+    "file": "SIMAC-055.jpeg",
+    "width": 868,
+    "height": 1280,
+    "sha256": "f9ed29ae8d5a22496c184784050866d327810baa66be181e864407a21d9c5d51",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.09 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-056",
+    "file": "SIMAC-056.jpeg",
+    "width": 912,
+    "height": 1280,
+    "sha256": "0a7650a7418ce347b9e4a0719c57f069bbdad37ca2ce2a4097b03d987d703e03",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.11 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-057",
+    "file": "SIMAC-057.jpeg",
+    "width": 932,
+    "height": 1280,
+    "sha256": "5cfdb65a064a3315a5fc47475b8b71d625f3184ad96f494f3343e6b5f8447c37",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.36 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-058",
+    "file": "SIMAC-058.jpeg",
+    "width": 912,
+    "height": 1280,
+    "sha256": "8c503d7c04015c7678e95f3c316f3ee42f2f0691ebaa4754d9693469f96c695f",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.36 PM (1).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-059",
+    "file": "SIMAC-059.jpeg",
+    "width": 922,
+    "height": 1280,
+    "sha256": "3a4e00e57ace27c3fd692704fd80d48adb1bb1d5385b45992ad69e2ca4c4e7c2",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.37 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-060",
+    "file": "SIMAC-060.jpeg",
+    "width": 890,
+    "height": 1280,
+    "sha256": "bb8d3606e5dbcf5a8de613f4679f0fba364c9464b3309f621722f75b56a371cb",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.38 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-061",
+    "file": "SIMAC-061.jpeg",
+    "width": 936,
+    "height": 1280,
+    "sha256": "aeeb5ef667afec2b3fc728b4a51999472e6d53f3179e0594d287342e3f5471ba",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.41 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-062",
+    "file": "SIMAC-062.jpeg",
+    "width": 882,
+    "height": 1280,
+    "sha256": "df550dd615d84ad172283a8e69e6898357771c71c604d0f546c677bf976a0993",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.41 PM (1).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-063",
+    "file": "SIMAC-063.jpeg",
+    "width": 808,
+    "height": 1280,
+    "sha256": "e5c2426b5394550332f39a83ca5827501da25c5f12f9bf170cce8197b548f111",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.43 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-064",
+    "file": "SIMAC-064.jpeg",
+    "width": 918,
+    "height": 1280,
+    "sha256": "059b96eea47b7e44a8c6aa555f6e47b34e64ea5d6579ddcbbcbdf7534952edc0",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.43 PM (1).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-065",
+    "file": "SIMAC-065.jpeg",
+    "width": 910,
+    "height": 1280,
+    "sha256": "8fb300bc100ec9eac77a3a7ff9d8560e17283f5b2401b6f6ee840fd1997dbca6",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.44 PM.jpeg",
+    "note": "Código SIMAC-065 confirmado por el equipo; la ficha fotografiada dice SIMAC-066 y LOT-065."
+  },
+  {
+    "code": "SIMAC-066",
+    "file": "SIMAC-066.jpeg",
+    "width": 926,
+    "height": 1280,
+    "sha256": "6fbe32265d743f802eb68d02143487d2c902b7f8b523cb2adbda74c6160c607f",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.44 PM (1).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-067",
+    "file": "SIMAC-067.jpeg",
+    "width": 958,
+    "height": 1280,
+    "sha256": "0fbe113aa11bf54bb3d88543b114cd7036fe9f95db35b2286f7e5716c3d2be54",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.44 PM (2).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-068",
+    "file": "SIMAC-068.jpeg",
+    "width": 896,
+    "height": 1280,
+    "sha256": "b797b208dc0594bc32199ab809c149807a0b957abdd1da30c12c3ef62847941d",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.45 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-069",
+    "file": "SIMAC-069.jpeg",
+    "width": 914,
+    "height": 1280,
+    "sha256": "26e84f5dbf07f00441a01b3e0b681273bf12bc05d37b8d76bc3c617a46cbe083",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.45 PM (1).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-070",
+    "file": "SIMAC-070.jpeg",
+    "width": 890,
+    "height": 1280,
+    "sha256": "8c9efe664ea07c3e135b9020aea0c59e88606aacfb43466e008bcbde8e6680e9",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.46 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-071",
+    "file": "SIMAC-071.jpeg",
+    "width": 1010,
+    "height": 1280,
+    "sha256": "04f232fdb9d3d5e6c6fe1a55a8d7d56fa27a1d2a8e5df0b99e5225e22966a7a1",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.46 PM (1).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-072",
+    "file": "SIMAC-072.jpeg",
+    "width": 1038,
+    "height": 1280,
+    "sha256": "912738c372c049dae934b7d3563f92270ec5dbf28bb08a37dbbbbf7a41115f54",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.46 PM (2).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-073",
+    "file": "SIMAC-073.jpeg",
+    "width": 1040,
+    "height": 1280,
+    "sha256": "916cf57032d31f4b63c195e1fdfbc9ea31dc70bc558efec7cd78883b824f43b5",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.47 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-074",
+    "file": "SIMAC-074.jpeg",
+    "width": 1010,
+    "height": 1280,
+    "sha256": "0a3aee3a0bea016bfdf875b7b8a002322ddd04371bbb8a8b64ed976f353d714c",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.47 PM (1).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-075",
+    "file": "SIMAC-075.jpeg",
+    "width": 1012,
+    "height": 1280,
+    "sha256": "18b9b0b6708228ef8ee11720121390819ad17e5791e3693221060ca81103f52d",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.47 PM (2).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-076",
+    "file": "SIMAC-076.jpeg",
+    "width": 992,
+    "height": 1280,
+    "sha256": "15f8a63fda53bffe0e2d6ab526d9525e42f63c8cd24ab7455342c9f840e1d240",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.48 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-077",
+    "file": "SIMAC-077.jpeg",
+    "width": 1062,
+    "height": 1280,
+    "sha256": "9f96d37f1045a2758e9f3248d6dc349116646a751af3c540e77a2c670e579e88",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.48 PM (1).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-078",
+    "file": "SIMAC-078.jpeg",
+    "width": 960,
+    "height": 1280,
+    "sha256": "cfadfb6428f68e7b664edc869ac790c5c26eab50040ec3069aee721714ad9f15",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.49 PM.jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-079",
+    "file": "SIMAC-079.jpeg",
+    "width": 944,
+    "height": 1280,
+    "sha256": "396823b4cb02f452ae5023099a38cc82fcdd43c7bb9ac5252b65ee5ef2aa8633",
+    "sourceArchive": "WhatsApp Unknown 2026-10-21 at 10.19.50 PM.zip",
+    "sourceFile": "WhatsApp Image 2026-10-21 at 2.50.49 PM (1).jpeg",
+    "note": ""
+  },
+  {
+    "code": "SIMAC-080",
+    "file": "SIMAC-78.jpeg",
+    "width": 938,
+    "height": 1280,
+    "sha256": "8da742b183c0e3450035431d18d5cfc2ac4dc629ef2e84c0c12cdbe2e8886fd6",
+    "note": "El archivo recibido se llama SIMAC-78.jpeg; la ficha fotografiada indica SIMAC-080."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "muestra": "SIMAC-001",
+    "archivo": "SIMAC-001.jpeg",
+    "origen_relativo": "../public/Visual/SIMAC-001.jpeg",
+    "sha256": "26039bb2f4cd75de9b7f2cf742f3f79c5cdf356d6e2f28e2d877b196b887a2a6"
+  },
+  {
+    "muestra": "SIMAC-002",
+    "archivo": "SIMAC-002.jpeg",
+    "origen_relativo": "../public/Visual/SIMAC-002.jpeg",
+    "sha256": "40b34edb86327536e98377bf6d699917ef519facdd6d495d22382d34230b2e19"
+  },
+  {
+    "muestra": "SIMAC-003",
+    "archivo": "SIMAC-003.jpeg",
+    "origen_relativo": "../public/Visual/SIMAC-003.jpeg",
+    "sha256": "79cb077ef53886eaf7f32a647ef598322ca39d77ff6cf9ba7df7555f2ca3a302"
+  },
+  {
+    "muestra": "SIMAC-004",
+    "archivo": "SIMAC-004.jpeg",
+    "origen_relativo": "../public/Visual/SIMAC-004.jpeg",
+    "sha256": "879079a64829a689e556d5f2daa612f8eb5def6a3dd27f0e69cc4c2e0df09e72"
+  },
+  {
+    "muestra": "SIMAC-005",
+    "archivo": "SIMAC-005.jpeg",
+    "origen_relativo": "../public/Visual/SIMAC-005.jpeg",
+    "sha256": "a8260e5c02864afb0e33960e1b01fe51ea3ea5a96ffb8ba1432606c5413bab41"
+  },
+  {
+    "muestra": "SIMAC-006",
+    "archivo": "SIMAC-006.jpeg",
+    "origen_relativo": "../public/Visual/SIMAC-006.jpeg",
+    "sha256": "731eb2864a76b4c8a4d32632be6aa87c2c9afce11eacc4e47a02f99e9516e238"
+  },
+  {
+    "muestra": "SIMAC-007",
+    "archivo": "SIMAC-007.jpeg",
+    "origen_relativo": "../public/Visual/SIMAC-007.jpeg",
+    "sha256": "6ecf7dce030e73e3ffb8c56f64e04004f0467d99f39d32bc187334c194708da6"
+  }
+]

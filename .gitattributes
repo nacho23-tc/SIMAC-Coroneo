@@ -1,0 +1,4 @@
+# Datos y pesos grandes: Git LFS conserva el contenido fuera de los objetos Git normales.
+data/samples.sqlite3 filter=lfs diff=lfs merge=lfs -text
+data/models/* filter=lfs diff=lfs merge=lfs -text
+data/yield_models/*.joblib filter=lfs diff=lfs merge=lfs -text

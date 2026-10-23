@@ -1,0 +1,72 @@
+[
+  {
+    "muestra": "SIMAC-001",
+    "identificador_en_informe": "SIMAC-001",
+    "archivo": "SIMAC-001.html",
+    "archivo_original": "informe_muestra (11).html",
+    "fecha_informe": "21/10/2026, 8:42:24 p.m.",
+    "revision_confirmada": true,
+    "sha256": "1306ffaa919b7895c96dc04317d106e3392c76930a8662f6c2c0b77a65fae108",
+    "nota": "Copia del informe existente; no constituye validación agronómica."
+  },
+  {
+    "muestra": "SIMAC-002",
+    "identificador_en_informe": "SIMAC-002-VER2",
+    "archivo": "SIMAC-002.html",
+    "archivo_original": "informe_muestra (8).html",
+    "fecha_informe": "21/10/2026, 8:25:54 p.m.",
+    "revision_confirmada": false,
+    "sha256": "c8d5a3b4234ad85d45fae7d7754e05a34803366450e4bd98fea74f095871d2a2",
+    "nota": "Versión calibrada en mm, revisión sin confirmar; no modificar resultados para aparentar validación."
+  },
+  {
+    "muestra": "SIMAC-003",
+    "identificador_en_informe": "SIMAC-003",
+    "archivo": "SIMAC-003.html",
+    "archivo_original": "informe_muestra (10).html",
+    "fecha_informe": "21/10/2026, 8:40:23 p.m.",
+    "revision_confirmada": true,
+    "sha256": "e0c8677af914f70a368abce27878c57c33bf4f10e2bfa6e606e61654072e8f40",
+    "nota": "Copia del informe existente; no constituye validación agronómica."
+  },
+  {
+    "muestra": "SIMAC-004",
+    "identificador_en_informe": "SIMAC-004",
+    "archivo": "SIMAC-004.html",
+    "archivo_original": "informe_muestra (15).html",
+    "fecha_informe": "21/10/2026, 8:51:36 p.m.",
+    "revision_confirmada": true,
+    "sha256": "16a6fcbc7a515a9635a11d003977cc68da5dc7afdcee32a65457c1378b023c6f",
+    "nota": "Copia del informe existente; no constituye validación agronómica."
+  },
+  {
+    "muestra": "SIMAC-005",
+    "identificador_en_informe": "SIMAC-005",
+    "archivo": "SIMAC-005.html",
+    "archivo_original": "informe_muestra (12).html",
+    "fecha_informe": "21/10/2026, 8:44:29 p.m.",
+    "revision_confirmada": true,
+    "sha256": "f5a5310c45f62f5857e502fc76a884f0d872ce81a237d1b6f8f90ff0efd8806e",
+    "nota": "Copia del informe existente; no constituye validación agronómica."
+  },
+  {
+    "muestra": "SIMAC-006",
+    "identificador_en_informe": "SIMAC-006",
+    "archivo": "SIMAC-006.html",
+    "archivo_original": "informe_muestra (13).html",
+    "fecha_informe": "21/10/2026, 8:46:24 p.m.",
+    "revision_confirmada": true,
+    "sha256": "da7142fe982249bb512a68d28cda64678c422f37c4b64ffea3f34c6173c6b663",
+    "nota": "Copia del informe existente; no constituye validación agronómica."
+  },
+  {
+    "muestra": "SIMAC-007",
+    "identificador_en_informe": "SIMAC-007",
+    "archivo": "SIMAC-007.html",
+    "archivo_original": "informe_muestra (14).html",
+    "fecha_informe": "21/10/2026, 8:48:57 p.m.",
+    "revision_confirmada": true,
+    "sha256": "22bd9cac944db944a51fcbec0987761d129facae6b9521718c70288cdd876217",
+    "nota": "Copia del informe existente; no constituye validación agronómica."
+  }
+]
